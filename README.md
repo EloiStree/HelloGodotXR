@@ -5,3 +5,9 @@
 # Hello Godot XR
 
 I focus on hacking games and QA, but I’m still an XR developer at heart. Let’s have fun with some basic lab tools and games.
+
+
+[<img width="654" height="502" alt="image" src="https://github.com/user-attachments/assets/1cb9dcc1-a95d-49e1-bd52-c450480f9dcb" />](https://youtu.be/BWHUlZuLHxo)  
+[https://youtu.be/BWHUlZuLHxo ](https://youtu.be/BWHUlZuLHxo)   
+
+
