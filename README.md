@@ -14,3 +14,7 @@ I focus on hacking games and QA, but Iâ€™m still an XR developer at heart. Letâ€
 There is a channel to talk XR on Godot Discord
 [<img width="1162" height="516" alt="image" src="https://github.com/user-attachments/assets/56eb63bd-a99f-483a-a65f-3d8d00159355" />](https://discord.com/channels/1235157165589794909/1235321874607771810)
 https://discord.com/channels/1235157165589794909/1235321874607771810
+
+
+Watch Game Jam in Godot XR:  
+https://youtu.be/6RE8KuCspqw?t=216
